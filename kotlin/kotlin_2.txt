@@ -1,0 +1,7 @@
+fun main() {
+	val age = 24
+    val layers = 5
+    printCakeCandles(age)
+    printCakeTop(age)
+    printCakeBottom(age, layers)
+}
